@@ -248,6 +248,7 @@ extra_javascript:
   - js/tablesort.js # 表格排序功能
   - js/canvas-nest.js # 背景图
   - js/background.js # 背景图
+  - js/leave-enter.js # 离开页面或者进入页面的标题提示
   - https://unpkg.com/mathjax@latest/es5/tex-mml-chtml.js # 数学表达式运行环境
   - https://unpkg.com/tablesort@latest/dist/tablesort.min.js # 表格排序功能运行环境（默认文本类型）
   - https://unpkg.com/tablesort@latest/dist/sorts/tablesort.date.min.js # 表格排序功能（日期类型）
